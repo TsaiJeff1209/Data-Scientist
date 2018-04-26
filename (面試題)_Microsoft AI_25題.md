@@ -1,7 +1,12 @@
-# [想成為資料科學家？來挑戰 Google、FB、Apple 等六間公司人工智慧最新面試題](https://www.inside.com.tw/2018/04/24/data-scientist-interview)
+## 文章來源
+### [想成為資料科學家？來挑戰 Google、FB、Apple 等六間公司人工智慧最新面試題](https://www.inside.com.tw/2018/04/24/data-scientist-interview)
+
+## 題目來源
+### [Microsoft AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/microsoft-ai-interview-questions-acing-the-ai-interview-be6972f790ea)
 
 ## 微軟
-微軟在企業中的統治地位是眾所周知的。微軟已經駕馭了雲端計算浪潮。在今年的第一季財報中，其 Azure 服務和 Office 365  在線生產力業務的收入分別增長了 90％ 和 42％。  
+微軟在企業中的統治地位是眾所周知的。微軟已經駕馭了雲端計算浪潮。在今年的第一季財報中，其 Azure 服務和 Office 365  在線生產力業務的收入分別增長了 90% 和 42%。  
+  
 在微軟執行長 Satya Nadella 在最近致所有微軟員工的一封信中，Intelligent Cloud 和 Intelligent Edge 組建了兩支新團隊，以塑造下一階段的創新。這意味著人工智慧將要給微軟的業務帶來十分重大的改變。毋庸置疑，微軟在此公告之後可能會招聘更多機器學習背景的相關員工。所以，現在你的機會來了。
 
 ## 面試流程

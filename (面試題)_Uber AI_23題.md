@@ -5,7 +5,7 @@
 ### [Uber AI Interview Questions — Acing the AI Interview](https://medium.com/acing-ai/uber-ai-interview-questions-acing-the-ai-interview-9532794bc057)
 
 ## Uber 面試流程
-Uber 的技術面試流程是一個標準的技術面試流程，由電話面試和現場面試組成（通常是 5 -- 6 輪面試）。Uber 在其 官方部落格 上詳細解釋了這一點。
+Uber 的技術面試流程是一個標準的技術面試流程，由電話面試和現場面試組成（通常是 5 -- 6 輪面試）。Uber 在其[官方部落格](https://eng.uber.com/engineering-interview/)上詳細解釋了這一點。
 
 ## 面試題
 ##### ● 描述二分類

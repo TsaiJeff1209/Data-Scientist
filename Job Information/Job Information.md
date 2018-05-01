@@ -1,7 +1,7 @@
 # 僅列出個人常用或推薦的
 ## Search for jobs
 ### [104人力銀行](https://www.104.com.tw/)
-
+### [Linkedin](https://www.linkedin.com)
 
 
 ## Job Information and Interview Information
